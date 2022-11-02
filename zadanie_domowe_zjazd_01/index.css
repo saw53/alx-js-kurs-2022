@@ -1,0 +1,50 @@
+* {
+    max-width: 640px;
+    margin: auto;
+    padding: 10px;
+}
+
+html {
+    align-self: center;
+    /* border: 1px solid black; */
+}
+
+body {
+    width: 80%;
+    /* position: relative; */
+    /* border: 2px solid black; */
+}
+
+.chatFormDiv {
+    background-color: rgb(237, 227, 227);
+    color: black;
+    border: 2px solid black;
+    min-height: 100px;
+    /*min-width: 600px; */
+}
+
+.chatTextAreaClass {
+    margin: 10px;
+    padding: 10px;
+    width: 90%;
+    height: relative;
+    min-height: 400px;
+    resize: none;
+}
+
+.chatNameInput {
+    background-color: rgb(71, 255, 237);
+    color: black;
+    border: 2px solid black;
+}
+
+.chatMsgInputClass {
+    background-color: rgb(215, 255, 71);
+    color: rgb(142, 172, 60);
+    border: 2px solid black;
+}
+
+.chatButton {
+    background-color: rgb(178, 255, 71);
+    border: 2px solid black;
+};
