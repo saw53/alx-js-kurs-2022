@@ -40,4 +40,4 @@ function renderTodos() {
 
 addTodoButton.addEventListener('click',handleAddTodoButton);
 removeTodoButton.addEventListener('click',handleRemoveTodoButton);
-renderTodos();
+renderTodos();  
