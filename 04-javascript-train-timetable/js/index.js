@@ -21,15 +21,10 @@ console.log('Hello lista pociagow');
 
 const trainList = document.querySelector('#trainList');
 
-// fetch('http://localhost:5000/trains')
-//     .then((response) => {
-//         console.log(response.json());
-//     })
 
 fetch('http://localhost:5000/trains')
 .then((response) => {
-    // console.log(response.json());
-    return response.json();// wbudowana metoda w fetch, sluzy do wyĹ‚uskania wartosci zapytania http
+    return response.json();
 })
 .then((data) => {
     console.log(data);
