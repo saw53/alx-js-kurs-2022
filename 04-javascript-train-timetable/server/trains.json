@@ -1,0 +1,81 @@
+{
+  "trains": [
+    {
+      "id": 1,
+      "from": "Warsaw",
+      "to": "Wroclaw",
+      "date": "07.11.2022",
+      "isPremium": true
+    },
+    {
+      "id": 2,
+      "from": "Kraków",
+      "to": "Wroclaw",
+      "date": "05.11.2022",
+      "isPremium": false
+    },
+    {
+      "id": 3,
+      "from": "Gdańsk",
+      "to": "Warszawa",
+      "date": "01.11.2022",
+      "isPremium": false
+    },
+    {
+      "id": 4,
+      "from": "Kołobrzeg",
+      "to": "Wrocław",
+      "date": "10.11.2022",
+      "isPremium": true
+    },
+    {
+      "id": 5,
+      "from": "Szczecin",
+      "to": "Wrocław",
+      "date": "4.11.2022",
+      "isPremium": false
+    },
+    {
+      "id": "633c3b69-6d94-4ba2-8d3a-59bb1a955683",
+      "from": "Berlin",
+      "to": "Sydney",
+      "date": "2022-07-08",
+      "isPremium": false
+    },
+    {
+      "id": "ebb7ec15-8271-410f-9928-f3b9b3074a70",
+      "from": "Londyn",
+      "to": "Rzym",
+      "date": "2022-10-10",
+      "isPremium": false
+    },
+    {
+      "id": "3b125297-0f6f-4017-83d5-2cbb2082d171",
+      "from": "Lublin",
+      "to": "Puławy",
+      "date": "2022-05-05",
+      "isPremium": false
+    },
+    {
+      "id": "e7fc4c8d-6b33-47d8-a510-6fa11a162fbb",
+      "from": "Gdynia",
+      "to": "Ełk",
+      "date": "2022-09-09",
+      "isPremium": false
+    },
+    {
+      "id": "018d3e2d-9f44-425a-ad3e-2018614f7b2c",
+      "from": "Ełk",
+      "to": "Gdynia",
+      "date": "2022-06-06",
+      "isPremium": false
+    },
+    {
+      "id": "88ae341a-24bc-499b-93ee-8c0adf25ba7c",
+      "from": "Ełk",
+      "to": "Sopot",
+      "date": "2022-01-01",
+      "isPremium": false
+    }
+  ]
+}
