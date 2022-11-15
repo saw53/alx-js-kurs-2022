@@ -1,0 +1,15 @@
+{
+    "todos": [
+      {
+        "id": 1,
+        "title": "Kurs jest fajny",
+        "author": "Damian"
+      },
+      {
+        "id": 2,
+        "title": "Kurs jest fajny2",
+        "author": "Michał"
+      }
+    ]
+}  
+  

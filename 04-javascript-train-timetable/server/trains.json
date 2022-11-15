@@ -76,6 +76,20 @@
       "to": "Sopot",
       "date": "2022-01-01",
       "isPremium": false
+    },
+    {
+      "id": "639abea6-0f12-4993-9ea2-aa18c1ab38ca",
+      "from": "Qwerty",
+      "to": "Uiop",
+      "date": "2022-07-07",
+      "isPremium": false
+    },
+    {
+      "id": "3395faa5-2ffe-44b3-b6af-0d7d5e228723",
+      "from": "Bytom",
+      "to": "Katowice",
+      "date": "2022-11-07",
+      "isPremium": false
     }
   ]
 }

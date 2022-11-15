@@ -14,7 +14,7 @@ const addBtn = document.querySelector('#addBtn');
 
 const resolveSubmit = (event) => {
 
-    event.preventDefault();
+    // event.preventDefault();
 
     let messageToSend = {
         id: uuidv4(),
@@ -31,9 +31,11 @@ const resolveSubmit = (event) => {
     },
         body: JSON.stringify(messageToSend)
     })
+    .then(() => {
+        window.location.href = 'index.html';       
+    })
 
-    window.location.href = 'index.html';
-    return false;
+    // return false;
 }
 
 addForm.addEventListener("submit", resolveSubmit);
